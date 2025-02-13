@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 # Загружаем токен из .env
 load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8014426625:AAFguwZOWffOOKOz5mxK3qPpumCP4R0_gF8")
 CHANNEL_ID = "@hatasoloda"
 
 # Настраиваем бота
